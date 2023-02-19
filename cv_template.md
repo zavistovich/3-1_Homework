@@ -60,19 +60,7 @@ October 2019 - current (Denver, CO)
 ### _Graphic Designer_  
   
 **Carta Healthcare**  
-June 2016 - October 2019 (Austin, TX)  
-
-
----
-
-### EXAMPLES  
---  
-
-
-Код на Python:  
-
-
-```python  
+June 2016 - October 2019 (Austin, TX) 
 
 * Collaborated with Marketing, PR, and Social Media teams to design graphics, boosting social engagement by 32%
 * Used HTML and CSS to create a mock, highlighting custom graphics for a product that launched to 500+ hospitals
@@ -83,26 +71,36 @@ June 2016 - October 2019 (Austin, TX)
 ### _Graphic Design Intern_  
   
 **Emanate**  
-June 2015 - August 2015 (San Francisco, CA)  
+June 2015 - August 2015 (San Francisco, CA) 
 
-<<<<<<< HEAD
 * Developed concepts and designs for 10 clients, including consumer products, electronics and enterprise technology,
 utilizing Adobe Photoshop and Illustrator
 * Created design elements for and edited PowerPoint presentations given by the CEO to shareholders and the entire 50-person company
 * Designed visual content for Facebook and Instagram posts, which, in total, received over 1,600 points of engagement
 * Revamped company logo and business cards, boosting brand image
-=======
+---
+
+### EXAMPLES  
+--  
+
+
+Код на Python:
+
+```python
+
+x = int(input())
+
+if x > 0:
+
     print(x)
 
 else:
 
     print(-x)
 
-```  
+```
 
-
-Код на JavaScript:  
-
+Код на JavaScript:
 
 ```javascript
 
@@ -114,7 +112,6 @@ let greeting2 = 'Mother!';
 
 console.log(greeting2);
 
-```  
+```
 
 END
->>>>>>> examples
