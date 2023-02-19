@@ -1,7 +1,7 @@
 # CV
 
 ## RHODA JACKSON
-_Graphic Designer_  
+### _Graphic Designer_  
 rhodajackson@email.com  
 (123) 456-7890  
 Denver, CO  
