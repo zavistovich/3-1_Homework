@@ -45,6 +45,7 @@ _Experienced graphic designer with 5 years of experience excited to help Yelp ex
 ---
 
 ### WORK EXPERIENCE
+
 --
 ### _Graphic Designer_ 
  
