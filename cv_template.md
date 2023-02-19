@@ -10,7 +10,11 @@ LinkedIn
 ---
 
 ### EDUCATION
-
+B.F.A.  
+Visual Arts  
+**University of Chicago**  
+* 2012 - 2016  
+* Chicago, IL
 
 ---
 
