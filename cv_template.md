@@ -62,6 +62,18 @@ October 2019 - current (Denver, CO)
 **Carta Healthcare**  
 June 2016 - October 2019 (Austin, TX)  
 
+
+---
+
+### EXAMPLES  
+--  
+
+
+Код на Python:  
+
+
+```python  
+
 * Collaborated with Marketing, PR, and Social Media teams to design graphics, boosting social engagement by 32%
 * Used HTML and CSS to create a mock, highlighting custom graphics for a product that launched to 500+ hospitals
 * Designed original graphics for use in a public health campaign, which reached over 80,000
@@ -73,8 +85,36 @@ June 2016 - October 2019 (Austin, TX)
 **Emanate**  
 June 2015 - August 2015 (San Francisco, CA)  
 
+<<<<<<< HEAD
 * Developed concepts and designs for 10 clients, including consumer products, electronics and enterprise technology,
 utilizing Adobe Photoshop and Illustrator
 * Created design elements for and edited PowerPoint presentations given by the CEO to shareholders and the entire 50-person company
 * Designed visual content for Facebook and Instagram posts, which, in total, received over 1,600 points of engagement
 * Revamped company logo and business cards, boosting brand image
+=======
+    print(x)
+
+else:
+
+    print(-x)
+
+```  
+
+
+Код на JavaScript:  
+
+
+```javascript
+
+let greeting1 = 'Father!';
+
+console.log(greeting1);
+
+let greeting2 = 'Mother!';
+
+console.log(greeting2);
+
+```  
+
+END
+>>>>>>> examples
