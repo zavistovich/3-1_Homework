@@ -7,6 +7,8 @@
 Denver, CO  
 [LinkedIn](https://linkedin.com "Send me a message")
 
+![Photo](designer.png)
+
 ---
 
 ### EDUCATION
