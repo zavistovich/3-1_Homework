@@ -57,11 +57,13 @@
 
 
 ### EXAMPLES  
---
+--  
 
-Код на Python:
 
-```python
+Код на Python:  
+
+
+```python  
 
 x = int(input())
 
@@ -73,9 +75,11 @@ else:
 
     print(-x)
 
-```
+```  
 
-Код на JavaScript:
+
+Код на JavaScript:  
+
 
 ```javascript
 
@@ -87,5 +91,6 @@ let greeting2 = 'Mother!';
 
 console.log(greeting2);
 
-```
+```  
+
 END
