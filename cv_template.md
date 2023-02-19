@@ -16,7 +16,10 @@
 3. Adobe After Effects
 4. Adobe InDesign
 5. Adobe Premiere Pro 
-6. Facebook / Instagram / TikTok 
+6. Social Networks  
+    * [x] Facebook 
+    * [x] Instagram
+    * [x] TikTok 
 7. HTML / CSS
 8. Microsoft Word / PowerPoint
 
